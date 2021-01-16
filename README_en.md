@@ -5,74 +5,61 @@
 </p>
 
 💎 It’s a hand-picked collection of resources for solving practical marketing tasks, such as: 
-本项目旨在整理解决实际市场任务的各种方法，如：
+* finding beta testers
+* growing first user base
+* advertising project without a budget
+* scaling marketing activities for building constant revenue streams. 
 
-* 寻找 beta 测试用户
-* 获得第一批用户
-* 零预算推广产品
-* 丰富营销活动以创建固定的收入流
-
-我们最初在构建一个用于 IOS 工程师的工具时遇到了这些问题。😤 我们花了两年的时间学习如何推销我们的产品。在这段时间，我们除了阅读书籍以外，还额外整理了各种有用的文章、视频、表单、博客、工具。这些资源很有帮助，如果你们仔细阅读并学习的话，你们也会学到很多。加油！
-
+We faced these question when we made our first product (a tool for iOS engineers). It took us almost 2 years to learn how to market our project. 😤 During this time we read, tried and bookmarked many useful things: articles, videos, spreadsheets, podcasts & tools. These resources helped us a lot! Please, learn, adapt and test awesome marketing hacks from our collection & experience. Good luck!
 
 _Lisa & Ahmed, founders of [Flawless App](https://flawlessapp.io/?utm_source=Github&utm_campaign=Collection-Marketing-For-Engineers&utm_medium=Free-Collection), tool to verify iOS app according to the design_
 
-
-
 ## 🛠 How to Use and Contribute
 
-如果你需要一些帮助，你可以按如下的方式进行：
+For getting needed advice, please:
+* Go through our Table of Contents. To help you navigate, we`ve added brief overviews of every marketing category. Also, content titles are displayed as clearly as possible (so it will tell you the context and how you can benefit from it). 
+* Search for a keyword or phrase (for example, “Product Hunt”, “Facebook”, “Blog”).
+* Ask [Lisa](https://twitter.com/LisaDziuba) on Twitter.
 
- - 查阅目录。为了便于导航，我们为所有营销种类添加了一个简短的大纲；此外，标题也尽可能的让其表意清楚，方便你能大概的了解文章内容。
- - 通过关键词或短语来搜索。（例如，"Product Hunt", "Facebook", "Blog"）
- - 在 Twitter 上询问 [Lisa](https://twitter.com/LisaDziuba)
+If you have found some great marketing content or tool, please, contribute to Marketing for Engineers collection. Simply submit a Pull Request with respect to our [Contribution Guidelines](https://github.com/LisaDziuba/Marketing-for-Engineers/blob/master/Contribution_Guidelines.md). We would love you to see your suggestions! 
 
-<!-- 如果你发现了一些很棒的营销内容或者工具，你可以简单的提交 Pull Request  -->
+## 📚 Table of Contents
+* [User Research](https://github.com/LisaDziuba/Marketing-for-Engineers/blob/master/README.md#-user-research)
+* [Market Research](https://github.com/LisaDziuba/Marketing-for-Engineers/blob/master/README.md#mag_right-market-research)
+* [Marketing without Budget](https://github.com/LisaDziuba/Marketing-for-Engineers#triumph-marketing-without-budget)
+* [Content Marketing](https://github.com/LisaDziuba/Marketing-for-Engineers#-content-marketing)
+  * [Personal blog](https://github.com/LisaDziuba/Marketing-for-Engineers#sunglasses-personal-blog)
+  * [Medium Marketing](https://github.com/LisaDziuba/Marketing-for-Engineers#green_book-medium-marketing)
+  * [Promotion of your content](https://github.com/LisaDziuba/Marketing-for-Engineers#mega-promotion-of-your-content)
+* [Influencer Marketing](https://github.com/LisaDziuba/Marketing-for-Engineers#influencer-marketing)
+* [Marketing for Product Hunt Launch](https://github.com/LisaDziuba/Marketing-for-Engineers#cat-marketing-for-product-hunt-launch)
+* [Social Media Marketing](https://github.com/LisaDziuba/Marketing-for-Engineers#-social-media-marketing)
+  * [Twitter](https://github.com/LisaDziuba/Marketing-for-Engineers#-twitter)
+  * [Facebook](https://github.com/LisaDziuba/Marketing-for-Engineers#facebook)
+  * [Reddit](https://github.com/LisaDziuba/Marketing-for-Engineers#reddit)
+  * [LinkedIn](https://github.com/LisaDziuba/Marketing-for-Engineers#-linkedin)
+  * [Quora](https://github.com/LisaDziuba/Marketing-for-Engineers#quora)
+  * Instagram (coming soon)
+* [Lifecycle Email Marketing](https://github.com/LisaDziuba/Marketing-for-Engineers#love_letter-lifecycle-email-marketing)  
+* [Cold Emails Marketing](https://github.com/LisaDziuba/Marketing-for-Engineers#fearful-cold-email-marketing)
+* [Building Partnerships](https://github.com/LisaDziuba/Marketing-for-Engineers#bowtie-building-partnerships)
+* [Psychology in Marketing](https://github.com/LisaDziuba/Marketing-for-Engineers#%EF%B8%8F-psychology-in-marketing)
+* [Business Model and Pricing](https://github.com/LisaDziuba/Marketing-for-Engineers/blob/master/README.md#moneybag-business-model-and-pricing)
+* [Marketing Automation](https://github.com/LisaDziuba/Marketing-for-Engineers/blob/master/README.md#-marketing-automation)
+* [Moving to SaaS model](https://github.com/LisaDziuba/Marketing-for-Engineers/blob/master/README.md#moving-to-saas-model)
+* [Other Useful Materials](https://github.com/LisaDziuba/Marketing-for-Engineers#other-useful-materials)
+* [Authors](https://github.com/LisaDziuba/Marketing-for-Engineers#-authors)
+* [Future Plans](https://github.com/LisaDziuba/Marketing-for-Engineers#future-plans)
 
-<!-- If you have found some great marketing content or tool, please, contribute to Marketing for Engineers collection. Simply submit a Pull Request with respect to our [Contribution Guidelines](https://github.com/LisaDziuba/Marketing-for-Engineers/blob/master/Contribution_Guidelines.md). We would love you to see your suggestions!  -->
+## 🔎 User Research
+User research gives you an answer for whom is your product. Analyzing potential users & customers will help to:
+- understand users' needs, pains, motivations and decision-making process; 
+- outline product roadmap, key features, UI design and UX scenarios for interacting with your product;
+- define the right marketing message (positioning) and choose marketing channels to spread this message;
+- make your marketing & communication strategy.
 
-## 📚 目录 - Table of Contents
-- [🛠 How to Use and Contribute](#-how-to-use-and-contribute)
-- [📚 目录 - Table of Contents](#-目录---table-of-contents)
-- [🔎 用户调查 - User Research](#-用户调查---user-research)
-- [:mag_right: Market Research](#mag_right-market-research)
-- [:triumph: Marketing without Budget](#triumph-marketing-without-budget)
-- [💎 Content Marketing](#-content-marketing)
-  - [:sunglasses: Personal Blog](#sunglasses-personal-blog)
-  - [:green_book: Medium Marketing](#green_book-medium-marketing)
-  - [:mega: Promotion of your content](#mega-promotion-of-your-content)
-- [💃Influencer Marketing](#influencer-marketing)
-- [:cat: Marketing for Product Hunt Launch](#cat-marketing-for-product-hunt-launch)
-- [📷 Social Media Marketing](#-social-media-marketing)
-  - [🐦 Twitter](#-twitter)
-  - [Facebook](#facebook)
-  - [Reddit](#reddit)
-  - [👽 LinkedIn](#-linkedin)
-  - [❔Quora](#quora)
-- [Viral Marketing](#viral-marketing)
-- [:love_letter: Lifecycle Email Marketing](#love_letter-lifecycle-email-marketing)
-- [:fearful: Cold Email Marketing](#fearful-cold-email-marketing)
-- [:bowtie: Building Partnerships](#bowtie-building-partnerships)
-- [🕵️ Psychology in Marketing](#️-psychology-in-marketing)
-- [:moneybag: Business Model and Pricing](#moneybag-business-model-and-pricing)
-- [🔮 Marketing Automation](#-marketing-automation)
-- [Moving to SaaS model](#moving-to-saas-model)
-- [Other Useful Materials](#other-useful-materials)
-- [👩‍💻 Authors](#-authors)
-- [Future Plans](#future-plans)
-
-## 🔎 用户调查 - User Research
-
-用户调查让你明白谁会使用你的产品。分析潜在的用户能够帮助你：
-
-- 明白用户的需求、痛点、动机、决策过程。
-- 规划产品路线，核心功能，UI 设计和用户场景
-- 定义正确的营销信息（市场定位），选择合适的营销渠道（传播渠道）
-- 确定营销、社区策略
-
-希望你能够充分认识到用户调查的重要性。在学习完下列这些材料之后你就足以制定用户调查策略，编撰基本的调查问卷并让真实的用户填写：
-
-* [如何为你的产品创建准确的用户问卷](user-research/accurate-customer-personas.md)
+I hope that I have convinced you that user research is very important. After learning these materials you should be able to make user research, create basic Persona and validate it on real people:
+* [How to Create Highly Accurate Customer Personas for Marketing](https://neilpatel.com/blog/accurate-customer-personas/)
 * [A Guide To Creating Buyer Personas That Will Improve Your Content Conversion Rates](https://www.crazyegg.com/blog/guide-creating-buyer-personas/)
 * [How to Create a Concrete Buyer Persona Guide (with templates, tools, Examples, 188 survey questions)](http://optinmonster.com/how-to-create-a-concrete-buyer-persona-with-templates-examples/) by optinmonster.
 * [How to Create Customer Profiles to Reach Your Target Audience](http://www.convinceandconvert.com/social-media-strategy/how-to-create-customer-profiles-to-reach-your-target-audience/) by Greg Ciotti. 
