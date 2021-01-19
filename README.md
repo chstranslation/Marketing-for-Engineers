@@ -73,8 +73,8 @@ _Lisa & Ahmed, founders of [Flawless App](https://flawlessapp.io/?utm_source=Git
 希望你能够充分认识到用户调查的重要性。在学习完下列这些材料之后你就足以制定用户调查策略，编撰基本的调查问卷并让真实的用户填写：
 
 * [如何为你的产品创建准确的用户问卷](user-research/accurate-customer-personas.md)
-* [A Guide To Creating Buyer Personas That Will Improve Your Content Conversion Rates](https://www.crazyegg.com/blog/guide-creating-buyer-personas/)
-* [How to Create a Concrete Buyer Persona Guide (with templates, tools, Examples, 188 survey questions)](http://optinmonster.com/how-to-create-a-concrete-buyer-persona-with-templates-examples/) by optinmonster.
+* [通过构建买家人设来提高你的内容转化率的一份指导](user-research/guide-creating-buyer-personas.md)
+* [全面买家人设构建指南（通过模板、工具、案例和188个调查问题）](user-research/how-to-create-a-concrete-buyer-persona-with-templates-examples.md) 
 * [How to Create Customer Profiles to Reach Your Target Audience](http://www.convinceandconvert.com/social-media-strategy/how-to-create-customer-profiles-to-reach-your-target-audience/) by Greg Ciotti. 
 * [Buyer Persona and Ideal Customer Profile: How They Help Your Sales](https://cience.com/buyer-persona-vs-ideal-customer-profile/)
 * [The Ultimate Guide to Developing Buyer Personas (with Templates!)](https://www.singlegrain.com/buyer-personas/complete-guide-developing-using-buyer-personas/)
@@ -83,7 +83,8 @@ _Lisa & Ahmed, founders of [Flawless App](https://flawlessapp.io/?utm_source=Git
 
 * [Marketing and UX personas](https://www.getresponse.com/blog/marketing-persona-vs-ux-persona): how they are similar and different?
 
-> A marketing persona, or buyer persona, is a way to segment target market by common characteristics. It is used to guide media campaigns to target the right audience with the appropriate messaging. Buyer personas usually comes from market research. ... If marketing persona is focused on the WHO, a UX persona is more about the HOW. A UX persona, or design persona, can include all the information in buyer persona, but with additional emphasis on the task-oriented user behavior. What a UX persona wants to uncover is all the steps a target user will take to go from point A to point B. 
+> 一名营销人员或采购人员。它用于引导媒体活动，以适当的消息传递来定位合适的受众。采购人员通常来自于市场调查... 如果营销人员更关注“Who”，那么 UX 则更关注“How”。UX，或者说设计师，能够将采购人员的所有信息都包含进来，但是会更倾向于强调面向任务的用户行为（task-oriented user behavior）。UX 想要揭示的是目标用户从A点到B点所要执行的所有步骤。
+
 
 
 * [Design-oriented video](https://www.youtube.com/watch?v=B23iWg0koi8) on performing [basic user research from the UX perspective](https://www.uxbooth.com/articles/complete-beginners-guide-to-design-research/). More good videos & guides on UX personas and research methods: [Creating Personas for User Experience Research](https://www.youtube.com/watch?v=u44pBnAn7cM), [When to Use Which User-Experience Research Methods](https://www.nngroup.com/articles/which-ux-research-methods/)

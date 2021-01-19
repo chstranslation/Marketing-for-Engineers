@@ -1,0 +1,1 @@
+[A Guide To Creating Buyer Personas That Will Improve Your Content Conversion Rates](https://www.crazyegg.com/blog/guide-creating-buyer-personas/)

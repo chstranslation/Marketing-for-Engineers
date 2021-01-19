@@ -1,0 +1,1 @@
+[How to Create a Concrete Buyer Persona Guide (with templates, tools, Examples, 188 survey questions)](http://optinmonster.com/how-to-create-a-concrete-buyer-persona-with-templates-examples/) by optinmonster.
